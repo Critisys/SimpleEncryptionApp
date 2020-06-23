@@ -1,0 +1,10 @@
+D:\Khang\ANM\EncrypApp\EncrypApp\bin\Debug\EncrypApp.exe.config
+D:\Khang\ANM\EncrypApp\EncrypApp\bin\Debug\EncrypApp.exe
+D:\Khang\ANM\EncrypApp\EncrypApp\bin\Debug\EncrypApp.pdb
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.csprojAssemblyReference.cache
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.Form1.resources
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.Properties.Resources.resources
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.csproj.GenerateResource.cache
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.csproj.CoreCompileInputs.cache
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.exe
+D:\Khang\ANM\EncrypApp\EncrypApp\obj\Debug\EncrypApp.pdb
